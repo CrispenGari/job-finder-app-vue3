@@ -8,11 +8,11 @@ This is a simple web application using `Vue3` that searches for jobs. This appli
 
 ### 1 Home Page
 
-![alt-tex](1)
+![alt-tex](https://github.com/CrispenGari/job-finder-app-vue3/blob/main/2.jpg)
 
 ### 2 Suggestions
 
-![alt-tex](2)
+![alt-tex](https://github.com/CrispenGari/job-finder-app-vue3/blob/main/1.jpg)
 
 ### This app is using
 
